@@ -1,9 +1,9 @@
 {
-  "name": "oceanic-next",
+  "name": "oceanic-next-purple",
   "theme": "syntax",
-  "version": "0.4.0",
-  "description": "Based on the Sublime Text theme",
-  "repository": "https://github.com/smlombardi/oceanic-next-syntax.git",
+  "version": "0.1.0",
+  "description": "Oceanic-next color scheme with purple background",
+  "repository": "https://github.com/ergenekonyigit/oceanic-next-purple-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
